@@ -11,16 +11,16 @@ background-color:gray;
 }
 .main{
 height:260px;
-width:620px;
+width:720px;
 text-align:center;
 font-weight:bold;
 background-color:black;
-margin:250px auto;
+margin:220px auto;
 position:relative;
 }
 .badge{
 background-color:#d2d2d2;
-width:85px;
+width:90px;
 font-size:30px;
 position:absolute;
 top:-10px;
